@@ -78,4 +78,4 @@ jupyter notebook supplier_dea_imrp.ipynb
 The Excel model needs the **Solver add-in** (yellow cells = decision variables, orange cell = objective).
 
 ---
-**Author:** Yi-Wen (Sophia) Su · [LinkedIn](https://www.linkedin.com/in/yi-wen-su-523a54433)
+**Author:** Sophia Su · [LinkedIn](https://www.linkedin.com/in/yi-wen-su-523a54433)
